@@ -1,0 +1,20 @@
+{
+    "Class": {
+    "prefix": "cls",
+    "body": [
+      "import React,{Component} from 'react';",
+      "\n",
+      "class ${1:} extends Component{",
+      "       render(){",
+      "           return (<div>",
+      "                       <h1></h1>",
+      "                   </div>",
+      "               )",
+      "        }",
+      " }",
+      "\n",
+      "export default ${1:};"
+    ],
+    "description": "Class"
+  }
+}

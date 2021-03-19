@@ -1,0 +1,19 @@
+{
+	"function":{
+	"prefix": "fun",
+	"body": [
+	  "import React from 'react';",
+	  "\n",
+	  "const ${1:}= (props) => {",
+	  "       return(",
+	  "           <div>",
+	  "              <h1></h1>",
+	  "           </div>",
+	  "         )",
+	  "      }",
+	  "\n",
+	  "export default ${1:};"
+	],
+	"description": "function"
+   }
+}
