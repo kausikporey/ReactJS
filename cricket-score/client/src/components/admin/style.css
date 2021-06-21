@@ -1,0 +1,24 @@
+ul {
+  list-style: none;
+}
+
+.link {
+  text-decoration: none;
+  color: rgb(219, 159, 159);
+}
+.link:link {
+  text-decoration: none;
+}
+.link:-webkit-any-link {
+  color: white;
+}
+.submenu {
+  position: relative;
+  left: 20px;
+}
+.list {
+  width: 100%;
+}
+p {
+  margin: 0;
+}
